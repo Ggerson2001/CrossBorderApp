@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240202157335",
+    "project_id": "cross-border-8db02",
+    "storage_bucket": "cross-border-8db02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240202157335:android:52f0c8504d6df7f5e0bb52",
+        "android_client_info": {
+          "package_name": "com.example.cross_border"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240202157335-glmglmoouu6flqurmm5i0na0733p5dtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmk6hd8jwjCTx9mmEw4CEA9b5YvXtljg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240202157335-glmglmoouu6flqurmm5i0na0733p5dtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
